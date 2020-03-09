@@ -1,8 +1,9 @@
 // infomain.js
 
 var info = document.getElementById('infoMain').innerHTML = `
-<div class="row">
-        <div class="col-md-8 offset-md-2 pt-3"><div class="card">
+<div class="container-fluid"
+<div class="row mx-auto style="width: 1200px;"">
+        <div class="col-md-8 col-sm-12 offset-sm-2 offset-xs-1 offset-md-2 pt-3"><div class="card">
             <div class="card-header text-center">
              <h3>Hakkımda</h3>
             </div>
@@ -12,5 +13,6 @@ var info = document.getElementById('infoMain').innerHTML = `
               <a href="https://omeronuralpaslan.github.io/about.html" class="btn btn-primary"><small class="text-center">Daha fazlası için tıklayınız.</small></a>
             </div>
           </div></div>
+    </div>
     </div>
 `

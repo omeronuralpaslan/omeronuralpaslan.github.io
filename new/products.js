@@ -5,7 +5,7 @@ var products = document.getElementById('products').innerHTML = `
     <div class="row">
         <div class="col-md-12 text-center bg-success mt-3 pt-3"><h2>Ürünlerim</h2></div>
     </div>
-    <div class="row mt-3 ml-4">
+    <div class="row mt-3 ml-4 mt-2">
         <div class="col-xl-4 col-md-6 mt-2">
             <div class="card" style="width: 18rem;">
                 <img src="https://www.tercihiniyap.net/images/haberler/2019/08/elektrik_elektronik_muhendisligi_2020_taban_puanlari_ve_basari_siralamalari_h7880_ebd95.jpg" width="500" class="card-img-top" alt="">
