@@ -8,7 +8,7 @@ var footer = document.getElementById('footer').innerHTML = `
     <small class="d-block mb-3 text-muted ml-3">Copyright © 2020</small>
   </div>
   <div class="col-12 col-md-12 d-block d-md-none pr-5">
-    <small class="text-muted"> <p class="text-center mr-4" style="text-center">Copyright © 2020</p></small>
+    <small class="text-muted"> <p class="text-center mr-5" style="text-center">Copyright © 2020</p></small>
     <br> <br> <br>
   </div>
   <div class="col-6 col-md d-md-block d-none pl-5">
