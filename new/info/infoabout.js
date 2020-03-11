@@ -4,7 +4,7 @@ var info = document.getElementById('infoAbout').innerHTML = `
 <div class="row mx-auto style="width: 1200px;" ">
     <div class="col-md-8 col-sm-8 offset-sm-2 offset-md-2 pt-3">
       <div class="card">
-        <div class="card-header text-center pb-1" style="background-color: darkgreen; color: white;">
+        <div class="card-header text-center pb-1 bg-success" style="color: white;">
           <h3>About Me</h3>
         </div>
         <div class="card-body text-center">
@@ -24,7 +24,7 @@ var info = document.getElementById('infoAbout').innerHTML = `
             quasi perferendis cum fuga dolore dignissimos dolores corporis doloremque harum sunt dolorem iure quo
             nostrum libero sint, modi praesentium. Magnam placeat quas quasi vero repudiandae minus consectetur!</p>
           
-            <a href="https://omeronuralpaslan.github.io/contact.html" class="btn btn-primary">
+            <a href="https://omeronuralpaslan.github.io/contact.html" class="btn btn-danger">
               <small class="text-center">Click here to contact me.</small></a>
             </div>
 

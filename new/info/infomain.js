@@ -20,7 +20,7 @@ var info = document.getElementById('infoMain').innerHTML = `
               I think, I am on the right way. 
               You can see my biography and more about me at the 'About Me' page.
               </p>
-              <a href="https://omeronuralpaslan.github.io/about.html" class="btn btn-primary">
+              <a href="https://omeronuralpaslan.github.io/about.html" class="btn btn-success">
               <small class="text-center">Click here for more.</small></a>
             </div>
           </div></div>
