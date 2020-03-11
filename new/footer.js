@@ -35,7 +35,7 @@ var footer = document.getElementById('footer').innerHTML = `
     <h5>About</h5>
     <ul class="list-unstyled text-small">
       <li><a class="text-muted" href="https://omeronuralpaslan.github.io/about.html">About Me</a></li>
-      <li><span class="text-muted">If you would like to see my codes and contribute to me,</span><a class="text-muted" href="https://github.com/omeronuralpaslan/omeronuralpaslan.github.io"><u>please click here.</u></a>
+      <li><span class="text-muted">If you would like to see my codes and contribute to me,</span><a class="text-muted" href="https://github.com/omeronuralpaslan/omeronuralpaslan.github.io"><u> please click here.</u></a>
       </li>
       
     </ul>
