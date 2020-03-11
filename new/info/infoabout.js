@@ -4,7 +4,7 @@ var info = document.getElementById('infoAbout').innerHTML = `
 <div class="row mx-auto style="width: 1200px;" ">
     <div class="col-md-8 col-sm-8 offset-sm-2 offset-md-2 pt-3">
       <div class="card">
-        <div class="card-header text-center" style="background-color: rgb(49, 45, 45); color: white;">
+        <div class="card-header text-center pb-1" style="background-color: darkgreen; color: white;">
           <h3>About Me</h3>
         </div>
         <div class="card-body text-center">
@@ -23,23 +23,11 @@ var info = document.getElementById('infoAbout').innerHTML = `
             a labore voluptatibus non molestias? Odit molestias suscipit veniam eveniet corrupti aliquid quam placeat
             quasi perferendis cum fuga dolore dignissimos dolores corporis doloremque harum sunt dolorem iure quo
             nostrum libero sint, modi praesentium. Magnam placeat quas quasi vero repudiandae minus consectetur!</p>
-          <a href="https://twitter.com/OOAlpaslan" class="btn"><small
-              class="text-center"><img src="https://img.icons8.com/android/24/000000/twitter.png"
-                alt=""></small></a>
-                <a href="https://instagram.com/OOAlpaslan" class="btn"><small
-                  class="text-center"><img src="https://img.icons8.com/android/24/000000/instagram.png"
-                    alt=""></small></a>
-                    <a href="https://facebook.com/OOAlpaslan" class="btn"><small
-                      class="text-center"><img src="https://img.icons8.com/android/24/000000/facebook.png"
-                        alt=""></small></a>
-                        <a href="https://linkedin.com/in/omeronuralpaslan/" class="btn"><small
-                          class="text-center"><img src="https://img.icons8.com/android/24/000000/linkedin.png"
-                            alt=""></small></a>
-                            <a href="https://github.com/omeronuralpaslan" class="btn"><small
-                              class="text-center"><img src="https://img.icons8.com/android/24/000000/github.png"
-                                alt=""></small></a>
-                                <a href="mailto:omeronuralpaslan@gmail.com" class="btn"> <small class="text-center"><img src="https://img.icons8.com/android/24/000000/gmail.png" alt=""> 
-                                </small></a>
+          
+            <a href="https://omeronuralpaslan.github.io/contact.html" class="btn btn-primary">
+              <small class="text-center">Click here to contact me.</small></a>
+            </div>
+
         </div>
       </div>
     </div>
